@@ -1,3 +1,3 @@
-#Ye github h#
-## mein github sikh rhi hu##
-### aur ye humari pawri ho rhi h###
+# Learning github
+## facing issues
+### any way out 💁
